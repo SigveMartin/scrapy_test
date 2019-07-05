@@ -1,4 +1,4 @@
-# scrapy_test
+# Web Scraping with Scrapy and MongoDB test
 A test project on scrapy, following the [scrapy tutorial](https://realpython.com/web-scraping-with-scrapy-and-mongodb/#store-the-data-in-mongodb).
 
 Here we scrape the questions on Stackoverflow.
